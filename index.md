@@ -4,11 +4,12 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="sherlock.jpg">
+<img class="profile-picture" src="HeadShot.jpg">
 
-Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
+Hi! I am a mechanical engineer interested in energy efficiency and energy analysis of alternative sources.
 
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
+I recently graduated with an M.Eng in Mechanical Engineering at the University of Toronto, where I specialized in Sustainable Energy. 
+In Toronto, I was introduced to the world of data analytics and machine learning and am interested in seeing how it can be applied to the energy industry. 
 
 ## Research Interest
 

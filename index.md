@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="HeadShot.jpg">
+<img class="profile-picture" src="HeadShot .jpg">
 
 Hi! I am a mechanical engineer interested in energy efficiency and energy analysis of alternative sources.
 

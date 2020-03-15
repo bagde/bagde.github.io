@@ -34,7 +34,6 @@ Shay's Kitchen, slides, 2018
 • Tested prototypes to identify performance limits and improved the design for better results by analyzing test data
 • Created clear and concise technical documents such as standard operating procedures, literature reviews, reports and presentations
 
-
 ## Publications
 
 1. F.Bar, J.Doe: Effects of having a placeholder of a name

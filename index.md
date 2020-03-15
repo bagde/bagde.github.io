@@ -14,10 +14,10 @@ In Toronto, I was introduced to the world of data analytics and machine learning
 ## Academic Projects
 
 **Bicycle Theft in Toronto**
-Smart City Challenge,[slides] ("bike_theft_presentation.ppt"), 2018
-•	Coordinated with team members to statistically analyze bike theft data based on time and location to help allocate resources to theft-prone neighborhoods 
-•	Individually implemented statistical models like Principal Component Analysis (PCA) or DBSCAN in Python using various libraries (GeoPandas, Scikit-Learn, NumPy, SciPy, etc.)
-•	Organized data based on time of day and seasons to generate a map of Toronto representing geospatial theft patterns  
+Smart City Challenge,[slides](https://github.com/bagde/bagde.github.io/blob/master/bike_theft_presentation.pptx), 2018
+• Coordinated with team members to statistically analyze bike theft data based on time and location to help allocate resources to theft-prone neighborhoods 
+• Individually implemented statistical models like Principal Component Analysis (PCA) or DBSCAN in Python using various libraries (GeoPandas, Scikit-Learn, NumPy, SciPy, etc.)
+• Organized data based on time of day and seasons to generate a map of Toronto representing geospatial theft patterns  
 
 ## Publications
 

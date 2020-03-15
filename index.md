@@ -14,10 +14,26 @@ In Toronto, I was introduced to the world of data analytics and machine learning
 ## Academic Projects
 
 **Bicycle Theft in Toronto**
-Smart City Challenge,[slides](https://github.com/bagde/bagde.github.io/blob/master/bike_theft_presentation.pptx), 2018
+Smart City Challenge, slides, 2018
 • Coordinated with team members to statistically analyze bike theft data based on time and location to help allocate resources to theft-prone neighborhoods 
 • Individually implemented statistical models like Principal Component Analysis (PCA) or DBSCAN in Python using various libraries (GeoPandas, Scikit-Learn, NumPy, SciPy, etc.)
 • Organized data based on time of day and seasons to generate a map of Toronto representing geospatial theft patterns  
+
+**Energy Audit**
+Shay's Kitchen, slides, 2018
+• Assessed the facility’s architectural layout and compiled past utility bills to create a site-specific energy consumption model on Excel
+• Performed calculations of the facilities heat gain/loss to assess the efficiency of the current HVAC system in place
+• Identified energy and water-saving opportunities and suggested cost-optimal solutions that yielded approximately $9,200 a year in energy savings
+
+## Engineering Work Experience 
+
+**Designer, Microfluidic lab-on-chip **
+[iSSELab](https://www.isselab.com/research), University of Alberta
+• Developed 3D models of micro-chips and characterized the flow pattern for passive separation of blood particles 
+• Developed a novel fabrication procedure of microchips that is convenient and cost effective 
+• Tested prototypes to identify performance limits and improved the design for better results by analyzing test data
+• Created clear and concise technical documents such as standard operating procedures, literature reviews, reports and presentations
+
 
 ## Publications
 

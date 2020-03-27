@@ -18,7 +18,7 @@ Stay tuned as I update my website!
 **Bicycle Theft in Toronto**, Smart City Challenge, slides <br>  
 Sep. 2018 – Dec. 2018
 * Coordinated with team members to statistically analyze bike theft data based on time and location to help allocate resources to theft-prone neighborhoods 
-* Individually implemented statistical models like Principal Component Analysis (PCA) or DBSCAN in Python using various libraries (GeoPandas, Scikit-Learn, NumPy, etc.)
+* Individually implemented statistical models like Principal Component Analysis (PCA) or DBSCAN in Python using various libraries (GeoPandas, Scikit-Learn, etc.)
 * Organized data based on time of day and seasons to generate a map of Toronto representing geospatial theft patterns  
 
 **Energy Audit**, Shay's Kitchen, slides  
@@ -38,47 +38,42 @@ Sep. 2015 – Aug. 2016
 
 ## Other Work Experience
 
-**Data Integrity Administrator**, [NOVA Chemicals](https://www.novachem.com/) 
+**Data Integrity Administrator**, [NOVA Chemicals](https://www.novachem.com/)  
 Oct. 2019 – Current 
 * Initiated collection of data to be able to implement data-driven solutions in increasing workflow process efficiency across the document control department 
 * Managed individual responsibility of conducting quality assurance checks on 50+ documents daily for prompt turnaround of projects
 * Communicated deficiencies with clients (orally or through written work) daily to resolve conflicts with project turnarounds
 
-**Tutor**, [Prepatorium](https://www.prepatorium.com/)
+**Tutor**, [Prepatorium](https://www.prepatorium.com/)  
 Mar. 2019 – Aug. 2019
 * Tutored high school students in science, algebra or calculus by identifying learners’ needs and resolving doubts promptly  
 * Instructed at a weekly after-school program consisting of 5 primary school students to help them develop fundamental math and reading skills
 
-**Teaching Assistant**, University of Toronto
+**Teaching Assistant**, University of Toronto  
 Jan. 2019 – Apr. 2019
 * Provided a class of 60+ students with guidance and technical support on course material covering key trends in the renewable and non-renewable energy industry 
 * Graded assignments and exams by applying background knowledge of fluid flow, thermodynamics and heat transfer analyses 
 * Proctored tests and exams to maintain a fair testing environment for all and provide any immediate assistance in lieu of the instructor 
 
-## Publications
+## Co-Curricular Activities
 
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
+**GoSolar**, Microsoft AI Challenge, slides, 2019
+* Presented a project that used AI to predict and calculate solar power potential of a roof-top
 
-## Typography
+**WaterMinder**, Call of Data Smart City Hack-a-thon, slides, 2019
+* Organized water usage data by location to promote water consciousness
+
+## Achievements 
 
 This is a [link](http://google.com). Something *italics* and something **bold**.
 
 Here is a table
 
-Year | Award | Category
------|-------|--------
-2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2014 | Satellite | Won Best Actor miniseries or television film
-
-Here is a horizontal rule
-
----
-
-Here is a blockquote
-
-> To a great mind, nothing is little
+Year | Award                  
+-----|------------------------        
+2016 | Jason Lang Scholarship 
+2015 | Dean's Research Award  
+2012 | CNRL Scholarship       
 
 ## References
 

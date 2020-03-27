@@ -15,7 +15,7 @@ Stay tuned as I update my website!
 
 ## Academic Projects
 
-**Bicycle Theft in Toronto**, Smart City Challenge, slides  
+**Bicycle Theft in Toronto**, Smart City Challenge, slides <br>  
 Sep. 2018 – Dec. 2018
 * Coordinated with team members to statistically analyze bike theft data based on time and location to help allocate resources to theft-prone neighborhoods 
 * Individually implemented statistical models like Principal Component Analysis (PCA) or DBSCAN in Python using various libraries (GeoPandas, Scikit-Learn, NumPy, etc.)

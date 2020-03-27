@@ -17,8 +17,8 @@ sass:
 
 nav:
  - name: "Github"
-   link: "/researcher/"
+   link: "https://github.com/bagde?tab=repositories"
  - name: "LinkedIn"
-   link: "resume.pdf"
+   link: "https://www.linkedin.com/in/shruti-bagde/"
  - name: "Contact"
    link: "contact"

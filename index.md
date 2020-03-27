@@ -77,6 +77,9 @@ Year | Award
 -----|------------------------        
 2016 | Jason Lang Scholarship 
 2015 | Dean's Research Award  
-2012 | CNRL Scholarship       
+2012 | CNRL Scholarship
+
+
+---    
 
 

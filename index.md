@@ -15,7 +15,7 @@ Stay tuned as I update my website!
 
 ## Academic Projects
 
-**Bicycle Theft in Toronto**, Smart City Challenge, slides <br>  
+**Bicycle Theft in Toronto**, Smart City Challenge, slides  
 Sep. 2018 – Dec. 2018
 * Coordinated with team members to statistically analyze bike theft data based on time and location to help allocate resources to theft-prone neighborhoods 
 * Individually implemented statistical models like Principal Component Analysis (PCA) or DBSCAN in Python using various libraries (GeoPandas, Scikit-Learn, etc.)
@@ -35,6 +35,14 @@ Sep. 2015 – Aug. 2016
 * Developed a novel fabrication procedure of microchips that is convenient and cost effective 
 * Tested prototypes to identify performance limits and improved the design for better results by analyzing test data
 * Created clear and concise technical documents such as standard operating procedures, literature reviews, reports and presentations
+
+**Engineering Intern**, Plains Midstream Canada  
+May 2015 – Aug. 2015
+* Sized and upgraded a pressure check valve required as a safety check for pipelines to reduce maintenance efforts required due to summer weather 
+* Operated the SCADA system to obtain and manage corrosion data of pipelines to predict the decommissioning of highly corroded pipes
+* Supported the operations team by performing site visits, maintaining and/or repairing equipment and systems 
+* Performed daily checks with Alberta One-Call to ensure that digging locations were authorized in order to avoid accidents 
+* Assisted admin department with budgeting and updating pay roll for the office branch of 20 employees
 
 ## Other Work Experience
 
@@ -65,17 +73,10 @@ Jan. 2019 – Apr. 2019
 
 ## Achievements 
 
-This is a [link](http://google.com). Something *italics* and something **bold**.
-
-Here is a table
-
 Year | Award                  
 -----|------------------------        
 2016 | Jason Lang Scholarship 
 2015 | Dean's Research Award  
 2012 | CNRL Scholarship       
 
-## References
 
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum

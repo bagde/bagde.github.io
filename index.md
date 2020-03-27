@@ -15,13 +15,13 @@ Stay tuned as I update my website!
 
 ## Academic Projects
 
-**Bicycle Theft in Toronto**, Smart City Challenge, slides
+**Bicycle Theft in Toronto**, Smart City Challenge, slides  
 Sep. 2018 – Dec. 2018
 * Coordinated with team members to statistically analyze bike theft data based on time and location to help allocate resources to theft-prone neighborhoods 
 * Individually implemented statistical models like Principal Component Analysis (PCA) or DBSCAN in Python using various libraries (GeoPandas, Scikit-Learn, NumPy, etc.)
 * Organized data based on time of day and seasons to generate a map of Toronto representing geospatial theft patterns  
 
-**Energy Audit**, Shay's Kitchen, slides
+**Energy Audit**, Shay's Kitchen, slides  
 Sep. 2018 – Dec. 2018
 * Assessed the facility’s architectural layout and compiled past utility bills to create a site-specific energy consumption model on Excel
 * Performed calculations of the facilities heat gain/loss to assess the efficiency of the current HVAC system in place
@@ -29,7 +29,7 @@ Sep. 2018 – Dec. 2018
 
 ## Engineering Work Experience 
 
-**Designer, Microfluidic lab-on-chip**, [iSSELab](https://www.isselab.com/research)
+**Designer, Microfluidic lab-on-chip**, [iSSELab](https://www.isselab.com/research)  
 Sep. 2015 – Aug. 2016
 * Developed 3D models of micro-chips and characterized the flow pattern for passive separation of blood particles 
 * Developed a novel fabrication procedure of microchips that is convenient and cost effective 

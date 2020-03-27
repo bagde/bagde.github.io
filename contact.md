@@ -3,24 +3,10 @@ layout: default
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
+* Email: [bagde@ualberta.ca](mailto:bagde@ualberta.ca)
 
-* Phone: [+91-123123](tel:+91-123123)
-
----
-
-## Mailing Address
-
-> 221B, Baker Street
->
-> London
->
-> United Kingdom
+* Phone: [+1 7809057478](tel:+1-7809057478)
 
 ---
 
-## Social
 
-1. [Facebook](#)
-2. [Twitter](#)
-3. [Google+](#)

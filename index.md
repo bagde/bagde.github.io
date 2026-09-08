@@ -8,8 +8,11 @@ layout: default
 
 Hi! I am a mechanical engineer interested in energy efficiency and energy analysis of alternative sources.
 
-I recently graduated with an M.Eng in Mechanical Engineering at the University of Toronto, where I specialized in Sustainable Energy. 
-In Toronto, I was introduced to the world of data analytics and machine learning and am interested in seeing how it can be applied to the energy industry. 
+I graduated with an M.Eng in Mechanical Engineering at the University of Toronto, where I specialized in Sustainable Energy. 
+ 
+Since graduating I have worked on tracking energy and water consumption trends in compliance with numerous programs, performed rigorous analysis and maintained databases to identify cost-effective energy efficiency measures for utilities and assisted in researching viable paths to develop climate action plans for municipalities. 
+
+In Toronto, I was introduced to the world of data analytics and machine learning and am interested in seeing how it can be applied to the energy industry.
 
 Stay tuned as I update my website with new things I learn! 
 
